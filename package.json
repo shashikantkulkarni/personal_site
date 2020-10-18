@@ -1,12 +1,19 @@
 {
-  "name": "devportfolio-template",
-  "version": "1.2.2",
-  "description": "",
+  "name": "shashikantkulkarni-portfolio",
+  "version": "1.0.0",
+  "description": "Shashikant Kulkarni personal website",
   "main": "js/scripts.js",
   "scripts": {
     "watch": "gulp watch"
   },
   "keywords": [
+    "Shashikant Kulkarni",
+    "Big Data",
+    "Apache Spark",
+    "Apache Cassandra",
+    "Apache Kafka",
+    "Machine Learning",
+    "AWS",
     "portfolio",
     "personal",
     "website",
@@ -14,7 +21,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Shashikant Kulkarni",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
