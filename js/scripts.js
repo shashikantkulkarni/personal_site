@@ -30,7 +30,7 @@
     }, Math.abs(window.pageYOffset - $(heading).offset().top) / 1); */
     $('html, body').animate({
       scrollTop: scrollDistance + 'px'
-    }, 5000);
+    }, 4000);
 
     // Hide the menu once clicked if mobile
     if ($('header').hasClass('active')) {
