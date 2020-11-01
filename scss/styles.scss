@@ -460,6 +460,9 @@ footer {
     color: $text;
     margin: 0;
   }
+  ul li {
+    text-align: left;
+  }
 }
 
 /*
@@ -906,6 +909,9 @@ footer {
     text-align: center;
 
     p {
+      text-align: left;
+    }
+    ul li {
       text-align: left;
     }
   }
